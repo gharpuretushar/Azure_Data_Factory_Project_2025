@@ -106,8 +106,7 @@ AzureDataEngineeringProject/
 
 ## 👤 Author
 
-**Tushar** – Azure Data Engineering Enthusiast  
-📧 Reach out via LinkedIn or GitHub for collaborations
+**Tushar** – Azure Data Engineering Enthusiast 
 
 **Motivation and Credits**
 Ansh Lamba
